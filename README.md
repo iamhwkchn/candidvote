@@ -52,7 +52,7 @@ CandidVote is designed for organizations, businesses, and individuals seeking a 
 
 ## System Architecture
 
-![System Architecture]([/images/system-architecture.png](https://github.com/iamhwkchn/candidvote/blob/master/images/arc%20dia%20candidvote.png))
+<img src="https://github.com/iamhwkchn/candidvote/blob/master/images/arc%20dia%20candidvote.png" alt="System Architecture" width="600">
 
 ### Benefits of Using Blockchain
 
