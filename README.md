@@ -72,4 +72,4 @@ CandidVote is designed for organizations, businesses, and individuals seeking a 
 - Real-Time Vote Tracking: Implement functionality to view live votes fetched from the blockchain during an ongoing voting session.
 - Live Result Updates: Display live results for ongoing events and update charts accordingly.
 
-Feel free to customize this `README.md` file further, add relevant links o
+
