@@ -1,4 +1,4 @@
-# CandidVote - Secure Blockchain-Based Voting System
+# CandidVote - Secure Blockchain-powered voting web app
 
 ![CandidVote](https://github.com/iamhwkchn/candidvote/blob/master/images/candidvote.png)
 
