@@ -46,10 +46,8 @@ CandidVote is designed for organizations, businesses, and individuals seeking a 
 
 ### Project Management
 - GitLab's Kanban Board
-- MS Teams for meetings and data sharing
-- Weekly meetings on Mondays
-- Review meetings on Fridays
-- GitLab CI/CD or CircleCI for testing and deployment
+- MS Teams and office 365 suite for meetings and data sharing
+- GitLab CI/CD and CircleCI for continuous testing and deployment
 
 ## System Architecture
 
