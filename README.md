@@ -30,6 +30,7 @@ CandidVote is designed for organizations, businesses, and individuals seeking a 
 - MongoDB
 
 ### Blockchain
+- Metamask
 - Solidity
 - Ganache
 - Truffle
