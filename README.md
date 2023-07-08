@@ -1,6 +1,6 @@
 # CandidVote - Secure Blockchain-Based Voting System
 
-![CandidVote](https://github.com/iamhwkchn/candidvote/blob/master/images/arc%20dia%20candidvote.png)
+![CandidVote]()
 
 CandidVote is a secure blockchain-based voting system that aims to eliminate the potential security threats associated with tampering of votes, ensuring truthful and reliable results. This system can be utilized by organizations, businesses, or individuals who require user polls to make informed decisions.
 
@@ -52,7 +52,7 @@ CandidVote is designed for organizations, businesses, and individuals seeking a 
 
 ## System Architecture
 
-![System Architecture](/images/system-architecture.png)
+![System Architecture]([/images/system-architecture.png](https://github.com/iamhwkchn/candidvote/blob/master/images/arc%20dia%20candidvote.png))
 
 ### Benefits of Using Blockchain
 
